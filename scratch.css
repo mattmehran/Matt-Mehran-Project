@@ -1,0 +1,54 @@
+
+#hands {
+    font-family: 'Zen Dots', cursive;
+    color: rgb(182, 0, 0);
+    margin-left: 2%;
+    }
+
+    #list {
+        margin-left: 3%;
+        font-family: 'Caveat', cursive;
+       
+        }
+
+        #list {font-size: 150%;}
+
+        body{
+            background-color: blanchedalmond;
+        }
+#Hypercar { 
+    color: rgb(182, 0, 0);
+    font-family: 'Zen Dots', cursive;
+    margin-left: 40%;
+}
+
+#Supercar {
+    color: rgb(182, 0, 0);
+    font-family: 'Zen Dots', cursive;
+    margin-left: -0%;
+}
+
+#button {
+    font-family: 'Caveat', cursive;
+    font-size: 130%;
+}
+
+
+#unordered {background-color: blanchedalmond;}
+
+#GT3 { color: rgb(182, 0, 0);
+    font-family: 'Zen Dots', cursive;
+margin-left: 13%;
+}
+
+    #Tableau {
+        color: rgb(182, 0, 0);
+    font-family: 'Zen Dots', cursive;
+    margin-top: 35%;
+    margin-left: -37%;
+    margin-top: 34%;
+    }
+
+    #Video {
+        margin-left: 20%;
+    }
